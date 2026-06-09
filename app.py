@@ -363,7 +363,7 @@ def main() -> None:
             <div class="navbar-links">
                 <a href="#how-it-works" style="color:inherit;text-decoration:none;" title="How Graph-RAG works">How It Works</a>
                 <a href="#tech-stack" style="color:inherit;text-decoration:none;" title="Tech Stack">Tech Stack</a>
-                <a href="https://github.com" style="color:inherit;text-decoration:none;" title="View on GitHub">GitHub</a>
+                <a href="https://github.com/DivyaMusahib/graph-rag-auditor" style="color:inherit;text-decoration:none;" title="View on GitHub">GitHub</a>
             </div>
             <a href="#step-1" class="navbar-btn" style="text-decoration:none;display:inline-block;color:#ffffff !important;">Upload Codebase &rarr;</a>
         </div>
