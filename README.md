@@ -1,3 +1,12 @@
+---
+title: My RAG App
+emoji: 🕵️‍♂️
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
+
 # Graph-RAG Auditor 🔍
 
 Structure-aware static analysis and AI-powered bug remediation for **Python** codebases.
